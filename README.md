@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abdul</h1>
+<h1 align="center">Hi 👋, I'm Abdul Majeed</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majeed-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="majeed-abdul" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majeed-abdul" alt="majeed-abdul" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter Apps**
 
