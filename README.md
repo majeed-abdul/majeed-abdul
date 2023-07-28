@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Majeed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Abdul Majeed</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majeed-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="majeed-abdul" /> </p>
 
@@ -7,7 +6,7 @@
 
 - 🌱 I’m currently learning **Blockchain development, solidity**
 
-- 📫 How to reach me **majeed96abdul@gmail.com**
+- 📫 You can contact me at **majeed96abdul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majeed-abdul&show_icons=true&locale=en&layout=compact" alt="majeed-abdul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majeed-abdul&show_icons=true&locale=en" alt="majeed-abdul" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majeed-abdul&show_icons=true&locale=en&theme=dark" alt="majeed-abdul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majeed-abdul&" alt="majeed-abdul" /></p>
