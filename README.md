@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Abdul Majeed</h1>
 
-<! --<p align="left"> <img src="https://komarev.com/ghpvc/?username=majeed-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="majeed-abdul" /> </p> --> 
-
 - 🔭 I’m currently working on **Flutter Apps**
 
 - 🌱 I’m currently learning **Blockchain development, solidity**
