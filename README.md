@@ -2,7 +2,7 @@
 
 - 🔭 I’m a **Mobile App Developer**
 
-- 🌱 I’m currently learning **Blockchain development, ethereum**
+- 🌱 I’m currently learning **Blockchain development, (Ethereum)**
 
 - 📫 You can email me on **majeed96abdul@gmail.com**
 
