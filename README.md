@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdul Majeed</h1>
 
-- 🔭 I’m a **Mobile App Developer** .
+- 🔭 I’m a **Mobile App Developer (flutter)** .
 
 - 🌱 I’m currently learning **Blockchain development, (Ethereum)** .
 
