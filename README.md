@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Abdul Majeed</h1>
 
-- 🔭 I’m a **Mobile App Developer (flutter)** .
+- 🔭 I’m a **Mobile App Developer (Flutter)** .
 
-- 🌱 I’m currently learning **Blockchain development, (Ethereum)** .
+- 🌱 I’m currently learning **Blockchain Development, (Ethereum)** .
 
 - 📫 You can email me on **majeed96abdul@gmail.com** .
 
