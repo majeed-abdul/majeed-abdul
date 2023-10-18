@@ -2,7 +2,7 @@
 
 - 🔭 I’m a **Mobile App Developer (Flutter)** .
 
-- 🌱 I’m currently learning **Blockchain Development, (ETH)** .
+- 🌱 I’m currently learning **Blockchain Development (ETH)** .
 
 - 📫 You can email me on **majeed96abdul@gmail.com** .
 
