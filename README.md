@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Abdul Majeed</h1>
 
-- 🔭 I’m a **Mobile App Developer (Flutter)** .
+-  I’m a **Mobile App Developer (Flutter)** .
 
-- 🌱 I’m currently learning **Blockchain Development (eth)** .
+-  I’m currently learning **Blockchain Development (eth)** .
 
-- 📫 You can email me on **majeed96abdul@gmail.com** .
+-  You can email me on **majeed96abdul@gmail.com** .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
