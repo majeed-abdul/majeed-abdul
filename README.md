@@ -2,7 +2,7 @@
 
 -  I’m a **Mobile App Developer (Flutter)** .
 
--  I’m currently learning **Blockchain Development (eth)** .
+-  I’m currently learning **Blockchain Development (Eth)** .
 
 -  You can email me on **majeed96abdul@gmail.com** .
 
