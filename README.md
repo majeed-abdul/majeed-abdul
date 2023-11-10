@@ -18,6 +18,7 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/images/logos/android.svg" alt="android" height="50"/> </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40"/> </a> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="dart" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <!--   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -25,7 +26,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <!--   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  -->
 <!--   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> -->
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="dart" height="38"/> </a> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=majeed-abdul&theme=dark" alt="majeed-abdul" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=majeed-abdul&show_icons=true&locale=en&layout=compact&theme=dark" alt="majeed-abdul" /></p>
 
