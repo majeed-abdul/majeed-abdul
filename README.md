@@ -2,7 +2,7 @@
 
 -  I’m a **Mobile App Developer (Flutter)** .
 
--  And also developing decentralized applications with  **Blockchain Development (Eth)** ⛓️ .
+-  And developing decentralized applications with  **Blockchain Development (Eth)** ⛓️ .
 
 -  You can email me on **majeed96abdul@gmail.com** .
 
