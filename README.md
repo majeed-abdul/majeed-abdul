@@ -10,14 +10,14 @@
 <p align="left">
 <a href="https://linkedin.com/in/abdul-m-8ba956284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-m-8ba956284" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17932595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17932595" height="30" width="40" /></a>
-<a href="https://ethereum.stackexchange.com/users/125013/abdul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17932595" height="30" width="40" /></a>
+<a href="https://ethereum.stackexchange.com/users/125013/abdul" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/ethereum/Img/apple-touch-icon@2.png" alt="17932595" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="dart" height="40"/> </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40"/> </a> 
-  <a href="https://blockchain.com" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2091/2091665.png" alt="android" height="40"/> </a> 
+  <a href="https://blockchain.com" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/8757/8757988.png" alt="android" height="40"/> </a> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
   <a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-1-283135.png" alt="dart" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
