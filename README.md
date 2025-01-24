@@ -15,16 +15,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="dart" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40"/> </a> 
-  <a href="https://blockchain.com" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/8757/8757988.png" alt="android" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/download-icon-ethereum+purple-1331550888105990923_512.png" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<!--   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="37"/>
+   <img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="dart" height="40"/> 
+ <img src="https://cdn-icons-png.flaticon.com/512/8757/8757988.png" alt="android" height="40"/> 
+  <img src="https://brandeps.com/logo-download/F/Firebase-logo-02.png" alt="firebase"  height="40"/> 
+   <img src="https://cdn.creazilla.com/icons/3253747/ethereum-icon-size_512.png" alt="ethereum"  height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="40"/>
+  <img src="https://logodix.com/logo/780712.png" alt="unity" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+<!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  -->
+<!--   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  -->
 <!--   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  -->
 <!--   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=majeed-abdul&theme=dark" alt="majeed-abdul" /></p>
